@@ -12,13 +12,13 @@ Hi!
 ### Here you can see how the program has to be run the first time:
 Python v 3.12 
 1) Go to the directory of the back_end. 'cd ./BACK_END'
-2) Install all the back_end's requirements:  'pip install -r requirements.txt' 
+2) Install all the back_end requirements:  'pip install -r requirements.txt' 
 
 3) Open a new terminal and go to the directory of the front_end. 'cd ./FRONT_END'
-4) Install all the front_end's requirements: 'setup.sh' or './setup.sh'
+4) Install all the front_end requirements: 'setup.sh' or './setup.sh'
 5) To start the front end: 'start.sh' or './start.sh'
 
-6) To start the back_end go to the back_end's terminal. 'python -m uvicorn Main.main:app --reload'
+6) To start the back_end go to the back_end terminal. 'python -m uvicorn Main.main:app --reload'
 7) Create a file .env and then you have to write there the following personal key and setup:
 - Open Ai key (
 OPENAI_API_KEY=...,
