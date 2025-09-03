@@ -1,6 +1,5 @@
 # AI INTERVIEWER 
 
-Hi!
 An AI-driven voice interviewer capable of conducting deep, long-form interviews (up to ~2 hours) and extracting the most meaningful information from the conversation.
 
 > **Project status:** ongoing development  
@@ -9,7 +8,7 @@ An AI-driven voice interviewer capable of conducting deep, long-form interviews 
 > - `FRONT_END/` – UI and client app
 
 ---
-
+Hi! 
 ### Here you can see how the program has to be run the first time:
 Python v 3.12 
 1) Go to the directory of the back_end. 'cd ./BACK_END'
