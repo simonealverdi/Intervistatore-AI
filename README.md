@@ -1,4 +1,4 @@
-## AI INTERVIEWER 
+# AI INTERVIEWER 
 
 Hi!
 An AI-driven voice interviewer capable of conducting deep, long-form interviews (up to ~2 hours) and extracting the most meaningful information from the conversation.
@@ -10,7 +10,7 @@ An AI-driven voice interviewer capable of conducting deep, long-form interviews 
 
 ---
 
-# Here you can see how the program has to be run the first time:
+### Here you can see how the program has to be run the first time:
 Python v 3.12 
 1) Go to the directory of the back_end. 'cd ./BACK_END'
 2) Install all the back_end's requirements:  'pip install -r requirements.txt' 
@@ -42,7 +42,7 @@ TH_FUZZY=75
 TH_COS=60
 ),
 
-# To start the program in the next times:
+### To start the program in the next times:
 
 1)Open two terminal. One for the back_end and oine for the front_end.
 2)Go to the directories. (just like above)
@@ -51,7 +51,7 @@ TH_COS=60
 
 
 
-# Output data:
+### Output data:
         user_id: Identifier 
         session_id: session ID
         question_idx: Question index
@@ -65,6 +65,6 @@ TH_COS=60
 
 
 
-# Licence
+### Licence
 This code is published for demonstration purposes. All rights reserved.
 No part of this repository may be copied, modified, or used without explicit written permission from the author.
